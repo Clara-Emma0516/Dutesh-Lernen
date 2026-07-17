@@ -19,12 +19,16 @@ Willkommen in meinem Repository!
 
 ## 📂 Inhalt des Repositories | 仓库内容导航
 
-| Ordner (文件夹) | Beschreibung (内容描述) |
-| :--- | :--- |
-| `Vocabulary/` | Vokabellisten, Redewendungen und Anki-Decks (自己之前整理的用于听写自测的词汇表-中译德、常用表达和 Anki 卡片) |
-| `Grammar/` | Notizen zu Grammatikregeln und Übungen (语法规则笔记和专项练习) |
-| `Resources/` | Nützliche Links, Podcasts und Lernmaterialien (实用的学习链接、播客和教材资源) |
+## 📂 分类导航 (Klicken Sie auf die Ordner | 点击分类快速进入)
 
+| 分类专区 | 内容描述 |
+| :--- | :--- |
+| [📘 Vocabulary (词汇专区)](./Vocabulary) | 词汇表（自己用于听写整理的中文词汇表） |
+| [📗 Grammar (语法专区)](./Grammar) | 语法规则笔记和专项练习题 |
+| [📓 Journals (日记与写作)](./Journals) | 德语短文、日记和随笔输出 |
+| [📁 Resources (资源与素材)](./Resources) | 实用的学习网站、播客和教材资源 |
+
+*(注：点击上方表格左侧的蓝色字体，即可直接跳转到对应资料区。)*
 ---
 
 > "Übung macht den Meister." - (熟能生巧)
