@@ -1,4 +1,4 @@
-# Dutesh-Lernen
+# Deutsch-Lernen
 # 🇩🇪 Meine Deutsch-Lernreise | 我的德语学习历程
 
 Willkommen in meinem Repository! 
